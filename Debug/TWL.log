@@ -1,0 +1,227 @@
+﻿  Bob.cpp
+  DetectCollisions.cpp
+D:\VS Projects\TWL\DetectCollisions.cpp(12,16): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\DetectCollisions.cpp(13,17): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\DetectCollisions.cpp(33,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\DetectCollisions.cpp(33,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\DetectCollisions.cpp(37,44): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\VS Projects\TWL\DetectCollisions.cpp(45,19): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\DetectCollisions.cpp(46,18): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\DetectCollisions.cpp(54,47): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Draw.cpp
+  Engine.cpp
+D:\VS Projects\TWL\Engine.cpp(8,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\Engine.cpp(9,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\Engine.cpp(11,52): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\Engine.cpp(11,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  HUD.cpp
+D:\VS Projects\TWL\HUD.cpp(32,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Input.cpp
+  LevelManager.cpp
+D:\VS Projects\TWL\LevelManager.cpp(88,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\TWL\LevelManager.cpp(115,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(115,16): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(118,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(118,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(121,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(121,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(124,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(124,17): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(130,19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(133,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(133,14): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(136,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(136,14): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\LevelManager.cpp(139,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  LoadLevel.cpp
+D:\VS Projects\TWL\LoadLevel.cpp(26,42): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\VS Projects\TWL\LoadLevel.cpp(27,39): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Particle.cpp
+  ParticleSystem.cpp
+D:\VS Projects\TWL\ParticleSystem.cpp(16,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PlayableCharacter.cpp
+D:\VS Projects\TWL\PlayableCharacter.cpp(69,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PlayableCharacter.cpp(75,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PlayableCharacter.cpp(77,28): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PlayableCharacter.cpp(81,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PlayableCharacter.cpp(83,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  PopulateEmitters.cpp
+D:\VS Projects\TWL\PopulateEmitters.cpp(11,22): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\VS Projects\TWL\PopulateEmitters.cpp(29,6): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PopulateEmitters.cpp(28,6): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PopulateEmitters.cpp(27,8): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PopulateEmitters.cpp(26,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PopulateEmitters.cpp(33,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PopulateEmitters.cpp(33,18): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PopulateEmitters.cpp(38,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PopulateEmitters.cpp(39,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PopulateEmitters.cpp(40,40): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS Projects\TWL\PopulateEmitters.cpp(41,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SoundManager.cpp
+  TextureHolder.cpp
+  Main.cpp
+  Thomas.cpp
+D:\VS Projects\TWL\Thomas.cpp(10,22): warning C4305: '=': truncation from 'double' to 'float'
+  Update.cpp
+  Generating Code...
+  TWL.vcxproj -> D:\VS Projects\TWL\Debug\TWL.exe
